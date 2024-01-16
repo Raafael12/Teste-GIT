@@ -1,0 +1,5 @@
+# Comentario
+
+*.txt
+
+# comando acima ignora todos os arquivos .txt
