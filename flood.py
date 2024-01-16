@@ -1,7 +1,6 @@
 import pyautogui as ag
 from time import sleep
 
-# mudança pra commit aa
 
 vai = True
 iter = 0
